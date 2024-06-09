@@ -1,0 +1,8 @@
+{
+    "open_ai_key": "<your_api_key>",
+    "persist_directory": "<path/to/chorma_db>",
+    "chat_model": "gpt-3.5-turbo-0125",
+    "embedding_model": "text-embedding-3-small",
+    "certfile": "<path/to/certfile.pem>",
+    "keyfile": "<path/to/keyfile.pem>"
+}
